@@ -45,6 +45,8 @@
 
 ![python_cheatsheet](https://user-images.githubusercontent.com/95729902/201488098-90e6ad52-aad8-4016-ba66-e58d322a7782.jpeg)
 ![python_pentesting_cheatsheet](https://user-images.githubusercontent.com/95729902/201488099-1817b3cc-598c-4b66-b74f-bdf5e45a5877.jpeg)
+![PYTHON_STRING_METHODS](https://user-images.githubusercontent.com/95729902/201488235-0aa49af5-7a25-4433-96f4-2760f2ac4e07.jpeg)
+
 
 ### RED TEAM
 
